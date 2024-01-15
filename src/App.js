@@ -1,5 +1,11 @@
+import { BackgroundMusic } from "./components";
+
 const App = () => {
-  return <></>;
+  return (
+    <>
+      <BackgroundMusic />
+    </>
+  );
 };
 
 export default App;
