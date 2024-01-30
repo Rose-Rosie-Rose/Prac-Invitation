@@ -1,9 +1,10 @@
-import { BackgroundMusic } from "./components";
+import { BackgroundMusic, PhoneCall } from "./components";
 
 const App = () => {
   return (
     <>
       <BackgroundMusic />
+      <PhoneCall />
     </>
   );
 };
